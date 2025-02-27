@@ -137,4 +137,4 @@ st.write("""
 
 """)
 
-st.write("Developed by Swapnil Roy (2448365), Toshima Jaiswa (2448369) for National Science Day Exibiton Exhibition")
+st.write("Developed by Swapnil Roy (2448365), Toshima Jaiswal (2448369) for National Science Day Exhibition")
