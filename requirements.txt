@@ -3,3 +3,4 @@ qiskit==1.0.2
 qiskit-aer==0.13.2
 numpy==1.26.4
 matplotlib==3.8.2
+qiskit-terra;python_version<"3.12"  # Prevent qiskit-terra on Python 3.12
