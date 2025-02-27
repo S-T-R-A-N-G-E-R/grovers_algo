@@ -1,0 +1,6 @@
+streamlit
+qiskit
+qiskit-terra
+qiskit-aer
+numpy
+matplotlib
