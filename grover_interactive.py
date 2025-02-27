@@ -135,11 +135,6 @@ st.write("""
 3. **Diffusion**: Reflects amplitudes about the average, amplifying the marked state’s amplitude.
 4. Grover’s Algorithm converges on the target state in \(O(\sqrt{N})\) steps.
 
-**For 2 qubits**, the probability of measuring the target state oscillates:
-- 1 iteration \(\rightarrow\) ~100%
-- 2 iterations \(\rightarrow\) ~25%
-- 3 iterations \(\rightarrow\) ~100%
-- 4 iterations \(\rightarrow\) ~25%
 """)
 
-st.write("Developed by Swapnil Roy for Quantum Computing Exhibition")
+st.write("Developed by Swapnil Roy (2448365), Toshima Jaiswa (2448369) for National Science Day Exibiton Exhibition")
